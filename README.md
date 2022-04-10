@@ -3,7 +3,7 @@
 
 #### 1. Подбор ML-модели
 
-Процесс подбора модели описан в файле mldjango.ipynb. Метрика и качества была accuracy. Наилучший результат показала модель SVC.
+Процесс подбора модели описан в файле mldjango.ipynb. Метрикой качества была accuracy. Наилучший результат показала модель SVC.
 
 > Ссылка на [mldjango.ipynb](https://github.com/zoLikeCode/ML-Django-Classification/blob/master/mldjango.ipynb)
 
