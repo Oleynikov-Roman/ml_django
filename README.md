@@ -20,16 +20,8 @@
 > > Данный файл нужен для создания окружения venv
 
 
-#### 3. Результат работы программы
 
-![image](https://user-images.githubusercontent.com/70718862/158981563-5d2af3d8-deb8-4904-ad95-94df8fd05d76.png)
-
-![image](https://user-images.githubusercontent.com/70718862/158981635-f5c3b710-f0cf-4b4a-976d-39f8d4b22df9.png)
-
-![image](https://user-images.githubusercontent.com/70718862/158981753-aad13e3d-b587-4226-83fa-44e3b5ebd958.png)
-
-
-#### 4. Авторы
+#### 3. Авторы
 
 Разработка и обучение ML-модели: Роман Олейников [GitHub](https://github.com/Oleynikov-Roman)
 
